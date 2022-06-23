@@ -456,7 +456,7 @@ main {
     display: inline-block;
     width: 20px;
     height: 20px;
-    background-image: url();
+    background-image: url("./assets/imgs/bitcoinbaby\ 1.svg");
     vertical-align: text-bottom;
 } 
 footer {
